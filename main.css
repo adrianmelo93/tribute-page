@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+h1 {
+
+  text-align: center;
+  color: white;
+  font-size: 60px;
+}
+.quote {
+  color: white;
+}
+.fir {
+  color: white;
+  font-size: 40px;
+text-align: center;
+}
+
+img {
+  display: block;
+width: 500px;
+height: 400px;
+margin: auto;
+}
+.toc {
+  color: white;
+  text-align: center;
+}
+.toc ul {
+  list-style-type: none;
+}
+
+section {
+  color: white;
+  margin-left: 30px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+section#first {
+  max-width: 800px;
+
+}
+section#second {
+  max-width: 900px;
+}
+#tercero  {
+  max-width: 800px;
+}
+
+a:visited {
+  color: blue;
+}
